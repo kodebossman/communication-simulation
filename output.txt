@@ -1,0 +1,7 @@
+Operator 0 : 13 3 0.0
+Operator 1 : 13 0 0.0
+Operator 2 : 0 7 0.0
+Customer 0 : 2.5 -2.5
+Customer 1 : 0.0 0.0
+Customer 2 : 0.0 0.0
+ccc 26
